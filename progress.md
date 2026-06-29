@@ -80,3 +80,15 @@ This repository is part of my ongoing journey through the Meta Back-End Develope
 ## Reflection
 
 Today's session focused on preparing my learning environment and understanding the purpose of the course. I organized my repository, completed the introductory lessons, and established a clear starting point for learning database fundamentals tomorrow.
+
+## 2026-06-29
+
+- Completed "What is a database?"
+- Completed "How is data related?"
+- Learned why databases provide persistent storage for applications.
+- Introduced to how related data is organized and connected.
+- Ready to begin "Relational data example chart" on 2026-06-30.
+
+## Reflection
+
+Today's lessons introduced the purpose of databases and how data can be related. I reinforced the idea that databases provide persistent storage for backend applications and began thinking about how information is connected through relationships rather than existing as isolated data. Tomorrow I will continue with relational data examples to strengthen my understanding of how databases model real-world information.
