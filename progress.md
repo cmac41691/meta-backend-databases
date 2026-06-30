@@ -92,3 +92,17 @@ Today's session focused on preparing my learning environment and understanding t
 ## Reflection
 
 Today's lessons introduced the purpose of databases and how data can be related. I reinforced the idea that databases provide persistent storage for backend applications and began thinking about how information is connected through relationships rather than existing as isolated data. Tomorrow I will continue with relational data examples to strengthen my understanding of how databases model real-world information.
+
+## 2026-06-30
+
+- Completed the "Databases and Data" section.
+- Learned the purpose of databases and persistent data storage.
+- Explored how data is related in relational databases.
+- Reviewed relational data example charts.
+- Learned about alternative database types.
+- Studied the evolution of database systems.
+- Completed the knowledge check (80%).
+
+## Reflection
+
+Today's session strengthened my understanding of why databases exist and how they organize related information. I also learned that relational databases are only one type of database and gained an overview of how database technology has evolved. These concepts provide the foundation for learning SQL and designing databases throughout the rest of the course.
