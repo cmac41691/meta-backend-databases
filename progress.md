@@ -106,3 +106,20 @@ Today's lessons introduced the purpose of databases and how data can be related.
 ## Reflection
 
 Today's session strengthened my understanding of why databases exist and how they organize related information. I also learned that relational databases are only one type of database and gained an overview of how database technology has evolved. These concepts provide the foundation for learning SQL and designing databases throughout the rest of the course.
+
+## 2026-07-01
+
+- Completed the Introduction to SQL section.
+- Learned SQL fundamentals and common relational database systems.
+- Studied CRUD operations.
+- Learned SQL sublanguages (DDL, DML, DQL, DCL).
+- Practiced basic SQL syntax examples.
+- Ready to begin the next section.
+
+## Reflection
+
+Today's lesson introduced SQL as the language used to communicate with relational databases.
+
+I learned how CRUD operations map directly to backend applications and how SQL statements are grouped into different language categories.
+
+This lesson forms the foundation for writing queries later in the course.
