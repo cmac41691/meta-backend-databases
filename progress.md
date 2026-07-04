@@ -144,3 +144,19 @@ Today I completed Module 1 by learning how relational databases are structured. 
 ### Module 1 Status
 
 ✅ Completed Introduction to Databases
+
+## 2026-07-04
+
+- Completed the Numeric Data Types lesson.
+- Completed the "Working with Numbers" SQL exercise.
+- Completed the self-review assignment (80%).
+- Created a `devices` table in SQLite.
+- Practiced SQL data types: INTEGER, TEXT, and REAL.
+- Inserted sample device records using `INSERT INTO`.
+- Retrieved data using `SELECT * FROM devices`.
+- Successfully executed the SQL script in DB Browser for SQLite.
+- Saved the database changes to `practice.db`.
+
+## Reflection
+
+Today's work helped reinforce the basic SQL workflow. I created a table, selected appropriate data types, inserted records, and queried the results successfully. Seeing the data appear in SQLite made the concepts much clearer because I was working with an actual database instead of only reading about SQL syntax. I also learned how to use DB Browser for SQLite to execute and save SQL scripts, giving me a practical workflow that I can continue using throughout the Meta Back-End certificate.
