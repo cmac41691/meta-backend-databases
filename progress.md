@@ -160,3 +160,31 @@ Today I completed Module 1 by learning how relational databases are structured. 
 ## Reflection
 
 Today's work helped reinforce the basic SQL workflow. I created a table, selected appropriate data types, inserted records, and queried the results successfully. Seeing the data appear in SQLite made the concepts much clearer because I was working with an actual database instead of only reading about SQL syntax. I also learned how to use DB Browser for SQLite to execute and save SQL scripts, giving me a practical workflow that I can continue using throughout the Meta Back-End certificate.
+
+## 2026-07-05
+
+### Completed
+- String data types
+- Exercise: Working with strings
+- Self-review: 100%
+- Default values
+- Exercise: Working with default values
+- Self-review: 100%
+
+### SQLite Practice
+- Created customer tables using CHAR and VARCHAR
+- Inserted and retrieved customer data
+- Practiced DEFAULT constraints
+- Tested automatic default values in SQLite
+- Practiced dropping and recreating tables
+- Added optional exercises to SQL artifacts
+
+### Repository
+- Added `working-with-string.sql`
+- Added `working-with-default-values.sql`
+
+### Key Concepts Learned
+- CHAR vs VARCHAR
+- DEFAULT constraint
+- NOT NULL constraint
+- Database constraints and data integrity
