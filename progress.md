@@ -188,3 +188,38 @@ Today's work helped reinforce the basic SQL workflow. I created a table, selecte
 - DEFAULT constraint
 - NOT NULL constraint
 - Database constraints and data integrity
+
+## 2026-07-06
+
+### Completed
+
+- Choosing the right data type for a column
+- Exercise: Choosing the right data type for a column
+- Self-review: 100%
+
+### SQLite Practice
+
+- Designed an `invoice` table from a written scenario
+- Selected appropriate SQL data types before writing SQL
+- Used VARCHAR for text fields
+- Used DATE for order dates
+- Used INT for whole-number quantities
+- Used DECIMAL(10,2) for monetary values
+- Created an additional `contactdetail` table as optional practice
+- Retrieved table structure using `SELECT * FROM invoice;`
+- Verified table creation in SQLite
+- Practiced translating database design into SQL without copying the provided solution
+
+### Repository
+
+- Added `choosing-right-data-type.sql`
+
+### Key Concepts Learned
+
+- Selecting appropriate SQL data types
+- VARCHAR vs numeric data types
+- DATE data type
+- INT data type
+- DECIMAL precision and scale
+- Designing tables before implementation
+- Translating pseudocode/database design into SQL
