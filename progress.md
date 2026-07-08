@@ -223,3 +223,31 @@ Today's work helped reinforce the basic SQL workflow. I created a table, selecte
 - DECIMAL precision and scale
 - Designing tables before implementation
 - Translating pseudocode/database design into SQL
+
+## 2026-07-08
+
+### Completed
+
+- Consolidated Module 2 SQL data type notes into `sql-data-type.md`
+- Organized handwritten notes into Markdown documentation
+- Reviewed SQL data types and database constraints
+- Reinforced pseudocode-to-SQL workflow
+
+### Documentation
+
+- Updated `sql-data-type.md`
+- Expanded personal backend reference notes
+
+### Key Concepts Reviewed
+
+- Numeric data types
+- String data types
+- CHAR vs VARCHAR
+- DATE
+- INT
+- REAL
+- DECIMAL
+- NOT NULL
+- DEFAULT
+- Choosing appropriate data types
+- Data integrity through constraints
