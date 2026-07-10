@@ -251,3 +251,32 @@ Today's work helped reinforce the basic SQL workflow. I created a table, selecte
 - DEFAULT
 - Choosing appropriate data types
 - Data integrity through constraints
+
+## 2026-07-10
+
+### Completed
+
+- CREATE DATABASE statement
+- CREATE TABLE statement
+- Exercise: Create Database, Create Table and Insert Data
+- Self-review: 80%
+
+### SQLite Practice
+
+- Created `bookshop_customers` table
+- Inserted multiple customer records
+- Retrieved records using `SELECT *`
+- Practiced writing SQL from pseudocode before implementation
+- Resolved existing table-name conflict by creating a unique table
+
+### Repository
+
+- Added `create-database-table-insert-data.sql`
+
+### Key Concepts Learned
+
+- CREATE TABLE
+- INSERT INTO
+- VALUES
+- SELECT *
+- Table naming
