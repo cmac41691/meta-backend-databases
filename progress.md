@@ -280,3 +280,29 @@ Today's work helped reinforce the basic SQL workflow. I created a table, selecte
 - VALUES
 - SELECT *
 - Table naming
+
+## 2026-07-11
+
+### Completed
+- SELECT statement
+- INSERT INTO SELECT statement
+- Exercise: Practicing table creation
+- Self-review: Practicing table creation — 100%
+- Knowledge check: Create, Insert and Select — 100%
+
+### SQLite Practice
+- Designed and created `players` and `game_match` tables
+- Selected appropriate SQL data types
+- Verified table creation in SQLite
+- Retrieved data using `SELECT *`
+- Continued writing SQL from personal pseudocode before implementation
+
+### Repository
+- Added `create-table-and-select.sql`
+
+### Key Concepts Learned
+- CREATE TABLE
+- SELECT statement
+- Choosing appropriate data types
+- Designing simple relational tables
+- Verifying SQL statements through SQLite
