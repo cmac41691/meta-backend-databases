@@ -306,3 +306,26 @@ Today's work helped reinforce the basic SQL workflow. I created a table, selecte
 - Choosing appropriate data types
 - Designing simple relational tables
 - Verifying SQL statements through SQLite
+
+## 2026-07-12
+
+### Meta Back-End Developer Professional Certificate
+**Course:** Introduction to Databases for Back-End Development
+
+### Completed
+- Finished notes for the **Create and Read** section.
+- Created `create-and-read.md` with backend explanations, SQL syntax, examples, and reflection.
+- Completed the **Record Deletion** exercise.
+- Built a standalone SQLite artifact: `delete-customer-record.sql`.
+- Documented the complete workflow:
+  - Create customer table
+  - Populate sample data
+  - Delete a specific customer record
+  - Verify deletion using `SELECT`
+  - Complete the optional deletion exercise
+- Executed and verified all SQL statements successfully in SQLite.
+- Wrote database changes and closed the database.
+- Passed the **Update and Delete Knowledge Check** with **80%**.
+
+### Reflection
+Today's work reinforced how SQL `DELETE` statements modify existing data rather than changing the database structure. Using `SELECT` after each deletion helped verify the results and demonstrated the importance of confirming database changes before considering a task complete. Creating a standalone artifact also improved my understanding of documenting SQL workflows for future reference and portfolio use.
