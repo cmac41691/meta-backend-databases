@@ -329,3 +329,11 @@ Today's work helped reinforce the basic SQL workflow. I created a table, selecte
 
 ### Reflection
 Today's work reinforced how SQL `DELETE` statements modify existing data rather than changing the database structure. Using `SELECT` after each deletion helped verify the results and demonstrated the importance of confirming database changes before considering a task complete. Creating a standalone artifact also improved my understanding of documenting SQL workflows for future reference and portfolio use.
+
+## 2026-07-13
+
+- Completed Module 2 Update and Delete notes.
+- Reviewed CRUD concepts (Create, Read, Update, Delete).
+- Verified SQL UPDATE and DELETE syntax.
+- Finished documentation for Module 2.
+- Prepared to begin Module 3: SQL Operators and Sorting/Filtering Data.
