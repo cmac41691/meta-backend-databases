@@ -337,3 +337,18 @@ Today's work reinforced how SQL `DELETE` statements modify existing data rather 
 - Verified SQL UPDATE and DELETE syntax.
 - Finished documentation for Module 2.
 - Prepared to begin Module 3: SQL Operators and Sorting/Filtering Data.
+
+## 2026-07-14
+
+### Completed
+
+- Began Module 3: SQL Operators and Sorting/Filtering Data.
+- Completed the SQL Arithmetic Operators video.
+- Finished the SQL Arithmetic Operator Examples reading.
+- Documented notes on SQL arithmetic operators.
+- Reviewed how arithmetic operators perform calculations within SQL queries.
+- Prepared to continue with the remaining SQL operators section.
+
+### Reflection
+
+Today's lesson showed that SQL can perform calculations directly within queries instead of relying on application code. Understanding arithmetic operators is another step toward thinking about how the database processes data before returning results to the backend.
