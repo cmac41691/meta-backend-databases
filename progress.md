@@ -352,3 +352,17 @@ Today's work reinforced how SQL `DELETE` statements modify existing data rather 
 ### Reflection
 
 Today's lesson showed that SQL can perform calculations directly within queries instead of relying on application code. Understanding arithmetic operators is another step toward thinking about how the database processes data before returning results to the backend.
+
+## 2026-07-17
+
+### Completed
+
+- Finished SQL Operators section.
+- Reviewed arithmetic operators (+, -, *, /, %).
+- Reviewed comparison operators (=, !=, <>, >, >=, <, <=).
+- Completed handwritten notes and Markdown documentation.
+- Passed the SQL Operators Knowledge Check with **100%** after working through multiple attempts and refining SQL syntax.
+
+### Reflection
+
+Today's practice reinforced that SQL syntax matters, but online graders can also be very strict about the exact form they expect. Reworking incorrect answers improved my understanding of arithmetic and comparison operators and increased my confidence writing SQL queries independently.
