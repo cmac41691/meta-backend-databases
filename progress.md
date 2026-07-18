@@ -366,3 +366,13 @@ Today's lesson showed that SQL can perform calculations directly within queries 
 ### Reflection
 
 Today's practice reinforced that SQL syntax matters, but online graders can also be very strict about the exact form they expect. Reworking incorrect answers improved my understanding of arithmetic and comparison operators and increased my confidence writing SQL queries independently.
+
+### 2026-07-18
+
+- Completed Module 3 ORDER BY and WHERE lab.
+- Created order-by-and-where.sql artifact in exercises/module-3.
+- Practiced ORDER BY, WHERE, and combining ORDER BY with WHERE.
+- Completed optional exercise selecting specific columns.
+- Debugged SQL syntax error caused by an extra semicolon before WHERE.
+- Learned how SQLite handles existing tables and how to execute selected SQL statements for testing.
+- Completed Self-review: ORDER BY and WHERE (100%).
