@@ -376,3 +376,14 @@ Today's practice reinforced that SQL syntax matters, but online graders can also
 - Debugged SQL syntax error caused by an extra semicolon before WHERE.
 - Learned how SQLite handles existing tables and how to execute selected SQL statements for testing.
 - Completed Self-review: ORDER BY and WHERE (100%).
+
+
+## 2026-07-19
+
+- Completed Module 3: SQL Operators and Sorting/Filtering Data.
+- Finished ORDER BY, WHERE, and SELECT DISTINCT topics.
+- Created SQLite artifact: order-by-and-where.sql.
+- Practiced sorting, filtering, and DISTINCT queries in SQLite.
+- Debugged SQL syntax and table-name issues while executing queries.
+- Completed Module 3 graded quiz with a score of 90%.
+- Began preparing repository structure for Module 4 (Database Design).
