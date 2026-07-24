@@ -387,3 +387,15 @@ Today's practice reinforced that SQL syntax matters, but online graders can also
 - Debugged SQL syntax and table-name issues while executing queries.
 - Completed Module 3 graded quiz with a score of 90%.
 - Began preparing repository structure for Module 4 (Database Design).
+
+## 2026-07-24
+
+### Module 4 – Database Schema
+
+- Completed the Database Schema lesson.
+- Passed the knowledge check (80%).
+- Wrote notes in `designing-database-schema.md`.
+- Created `schema-design-example.sql` as a personal schema prototype.
+- Designed tables for Users, Items, Orders, and Deliveries.
+- Practiced implementing the schema in SQLite.
+- Identified placeholder foreign key syntax that will be updated after completing the foreign key lesson.
