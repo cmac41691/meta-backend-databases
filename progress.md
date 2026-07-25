@@ -399,3 +399,15 @@ Today's practice reinforced that SQL syntax matters, but online graders can also
 - Designed tables for Users, Items, Orders, and Deliveries.
 - Practiced implementing the schema in SQLite.
 - Identified placeholder foreign key syntax that will be updated after completing the foreign key lesson.
+
+### 2026-07-25
+
+#### Module 4 – Keys and Table Relationships
+
+- Completed the Primary Key and Foreign Key lessons.
+- Learned that primary keys uniquely identify records in a table.
+- Learned that foreign keys connect related tables through primary keys.
+- Passed the "Defining Keys" knowledge check (80%).
+- Connected the concepts to the personal `schema-design-example.sql` prototype.
+- Improved understanding of how Users, Items, Orders, and Deliveries relate within a relational database.
+- Continued building production-level thinking by designing relationships before implementing SQL constraints.
