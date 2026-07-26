@@ -425,3 +425,13 @@ Today's practice reinforced that SQL syntax matters, but online graders can also
 - Completed the "Database Relations and Keys" knowledge check (100%).
 - Updated `relational-database-design.md` with notes and examples.
 - Continued strengthening production-level database design by thinking about relationships before writing SQL.
+
+### Module 4 – Database Normalization
+
+- Completed the Database Normalization lessons.
+- Studied First Normal Form (1NF), Second Normal Form (2NF), and Third Normal Form (3NF).
+- Learned how normalization reduces duplicate data and improves database organization.
+- Connected normalization concepts to the existing schema-design-example.sql prototype.
+- Reinforced how primary keys and foreign keys support normalized database structures.
+- Passed the Database Normalization knowledge check (100%).
+- Continued building production-level database design skills before implementing larger SQL projects.
