@@ -411,3 +411,17 @@ Today's practice reinforced that SQL syntax matters, but online graders can also
 - Connected the concepts to the personal `schema-design-example.sql` prototype.
 - Improved understanding of how Users, Items, Orders, and Deliveries relate within a relational database.
 - Continued building production-level thinking by designing relationships before implementing SQL constraints.
+
+
+### 2026-07-26
+
+#### Module 4 – Relational Database Design
+
+- Completed the Relational Database Design lessons.
+- Learned one-to-one, one-to-many, and many-to-many relationships.
+- Studied candidate keys, composite primary keys, and foreign keys.
+- Learned how entities and attributes are identified before building a database.
+- Practiced reading Entity Relationship Diagrams (ERDs).
+- Completed the "Database Relations and Keys" knowledge check (100%).
+- Updated `relational-database-design.md` with notes and examples.
+- Continued strengthening production-level database design by thinking about relationships before writing SQL.
