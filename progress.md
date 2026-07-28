@@ -435,3 +435,14 @@ Today's practice reinforced that SQL syntax matters, but online graders can also
 - Reinforced how primary keys and foreign keys support normalized database structures.
 - Passed the Database Normalization knowledge check (100%).
 - Continued building production-level database design skills before implementing larger SQL projects.
+
+### 2026-07-28
+
+#### Module 4 – Database Schema Examples
+
+- Completed the Database Schema Examples lab.
+- Completed the Schema Examples self-review (100%).
+- Compared my personal schema prototype against the course example.
+- Confirmed the current four-table design (Users, Items, Orders, Deliveries) matches the project's requirements.
+- Reinforced understanding that additional tables should only be introduced when new application requirements justify them.
+- Prepared to complete the Module 4 summary and graded quiz next session.
