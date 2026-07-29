@@ -446,3 +446,16 @@ Today's practice reinforced that SQL syntax matters, but online graders can also
 - Confirmed the current four-table design (Users, Items, Orders, Deliveries) matches the project's requirements.
 - Reinforced understanding that additional tables should only be introduced when new application requirements justify them.
 - Prepared to complete the Module 4 summary and graded quiz next session.
+
+### 2026-07-29
+
+#### Module 4 – Database Design
+
+- Completed the Module 4 summary.
+- Completed the Module 4 graded quiz.
+- Scored 60% on the first quiz attempt.
+- Reviewed incorrect answers and improved understanding of database design concepts.
+- Achieved 100% on the second quiz attempt.
+- Completed Module 4: Database Design.
+- Strengthened understanding of schema design, primary keys, foreign keys, table relationships, and database normalization.
+- Ready to begin the final graded assessment for *Introduction to Databases for Back-End Development*.
